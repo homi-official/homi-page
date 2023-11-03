@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Montbold';
-  src: url('fonts/Montserrat-Medium-7.otf') format('woff2');
+  src: url('./fonts/Montserrat-Medium-7.otf') format('woff2');
 }
 @font-face {
     font-family: 'Alcubierre';
-    src: url('fonts/Alcubierre-2.otf') format('woff2');
+    src: url('./fonts/Alcubierre-2.otf') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
